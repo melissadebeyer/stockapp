@@ -6,7 +6,6 @@ requests
 talib 
 ta
 pypfopt
-from pypfopt
 altair
 yahoofinancials
 requests
