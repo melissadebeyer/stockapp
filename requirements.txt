@@ -4,7 +4,7 @@ PyPortfolioOpt
 altair
 yahoofinancials
 requests
-PIL
+Pillow==8.4.0
 yfinance==0.1.54
 pandas==1.0.5
 matplotlib==3.2.2
