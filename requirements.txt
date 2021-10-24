@@ -1,0 +1,13 @@
+yfinance
+streamlit
+datetime 
+pandas
+requests
+talib 
+ta
+pypfopt
+from pypfopt
+altair
+yahoofinancials
+requests
+PIL
