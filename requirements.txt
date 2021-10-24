@@ -1,6 +1,6 @@
 datetime 
 requests
-pypfopt
+PyPortfolioOpt
 altair
 yahoofinancials
 requests
